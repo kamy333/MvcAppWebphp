@@ -7,4 +7,4 @@
 out
 gen
 vendor/*
-app/config/*
+app/config/config.php
